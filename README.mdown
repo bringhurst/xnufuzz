@@ -1,0 +1,7 @@
+## About
+
+XNUFuzz is a tool that will completely screw up your install of Snow Leopard. Don't use this if you care about anything on your computer.
+
+That said, I put this together to find several kernal level exploits in Snow Leopard.
+
+Use it at your own risk.
