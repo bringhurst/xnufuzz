@@ -2,6 +2,6 @@
 
 Use this program at your own risk. It WILL crash your computer (even as a non-root user) and cause data loss.
 
-I created this program while I was still in school for a course on security. It was used to find several kernel level exploits for a presentation, including an integer underflow.
+I created this program (based on sysfuzz and customized for snow leopard) while I was in school for a course on security. It was used to find several kernel level exploits for a presentation, including an integer underflow.
 
 Use it at your own risk.
