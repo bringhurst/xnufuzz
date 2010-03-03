@@ -1,10 +1,16 @@
+/*
+ * Use this program at your own risk. It will cause data loss and crashes.
+ */
 #include <stdio.h>
 #include <sys/types.h>
 #include <fcntl.h>
 #include <signal.h>
 #include <sys/mman.h>
 #include <sched.h>
-    
+
+/*
+ * This ignore list is customized for xnu-1486.2.11 (10.6.2).
+ */
 int ignore[] = {
     8, /* old creat */
     11, /* old execv */
